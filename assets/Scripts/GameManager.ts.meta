@@ -1,0 +1,16 @@
+{
+  "ver": "2.0.14",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "fb2e5dae-8612-4cd6-bf7c-5cf8910f12ab",
+  "files": [
+    ".js",
+    ".trans"
+  ],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "importerSettings": 7,
+    "moduleId": "project:///assets/Scripts/GameManager.js"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ver": "2.0.14",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "3c57d780-8e2d-4c01-9fa9-6cd376295146",
+  "files": [
+    ".js",
+    ".trans"
+  ],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "importerSettings": 7,
+    "moduleId": "project:///assets/Scripts/PlayerController.js"
+  }
+}
