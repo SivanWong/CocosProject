@@ -1,0 +1,31 @@
+{
+  "current-scene": "6962d389-b02c-41bc-937c-43c2f47d6fbc",
+  "camera-infos": {
+    "6962d389-b02c-41bc-937c-43c2f47d6fbc": {
+      "position": {
+        "x": 478.8731512646367,
+        "y": 310.3272408527947,
+        "z": 1000
+      },
+      "rotation": {
+        "w": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "viewCenter": {
+        "x": 0,
+        "y": -1,
+        "z": 0
+      }
+    }
+  },
+  "camera-uuids": [
+    "6962d389-b02c-41bc-937c-43c2f47d6fbc"
+  ],
+  "gizmos-infos": {
+    "iconGizmoSize": 2,
+    "isGridVisible": true,
+    "isIconGizmo3D": false
+  }
+}
